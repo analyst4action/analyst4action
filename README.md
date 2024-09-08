@@ -1,9 +1,9 @@
 - 👋 Hi, I'm Dave
-- 👀 I’m interested in data analytics  
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in prescriptive data analytics  
+- 🌱 I’m a life-long learner
+- 💞️ I’m looking to collaborate on acquisition best practices for fintechs
 - 📫 How to reach me LinkedIn... 
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I've visited 20 countries
 
 <!---
